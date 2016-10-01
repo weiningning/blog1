@@ -1,0 +1,28 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "description": "new Blog",
+  "main": "app.js",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.2",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiningning/blog1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiningning/blog1/issues"
+  },
+  "homepage": "https://github.com/weiningning/blog1#readme"
+}
